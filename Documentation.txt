@@ -1,0 +1,2 @@
+How to search appropriately, 
+I'm looking on how to search for connecting google docs to my html page and being able to make changes to it through the html.
